@@ -1,2 +1,2 @@
-# ---_-
-невронни мрежи
+# AGDPM
+FUSED 3D IMAGE ANALYSIS for BRAIN & NEUROLOGICAL DISORDERS 
